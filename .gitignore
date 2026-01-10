@@ -1,0 +1,32 @@
+# Data (never commit)
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.out
+*.toc
+*.lof
+*.lot
